@@ -16,7 +16,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;
 
-public class TestingClass {
+public class TestingClassAudio {
 	
 	// Expected outputs associated w/ each file
 	static String outputs[] = {"What is the purpose of a gallbladder?", 
